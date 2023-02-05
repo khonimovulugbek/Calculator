@@ -164,6 +164,7 @@
                 android:layout_height="90dp"
                 android:layout_weight="1"
                 style="@style/Button_Style"
+                android:background="@color/green"
                 android:text="="/>
 
         </TableRow>
