@@ -7,9 +7,7 @@
 <li>Scientific calculations (square root, exponential, logarithmic)</li>
 <li>Clear and intuitive user interface</li>
 </ul>
-Screenshots
-Calculator App Screenshot 1
-Calculator App Screenshot 2
+
 
 <h3>Installation</h3>
 <ol>
